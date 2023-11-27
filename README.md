@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rockzz123
 - 👀 I’m interested in cp and web dev and explore the new era of ai and ml 
-- 🌱 I’me currently learningpython to learn ml
+- 🌱 I’me currently learning front end development 
 - 💞️ I’m looking to collaborate on git and try to crack gsoc with the help of git 
 - 📫 How to reach me vishalvivek48@gmail.com
 
